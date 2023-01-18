@@ -1,4 +1,4 @@
-### Oi, sou o Teófilo Albuquerque, bem vindo! 👋
+### Oi, sou Teófilo Albuquerque, bem vindo! 👋
 
 <div align="center">
   <a href="https://github.com/teofiloalbuquerque">
